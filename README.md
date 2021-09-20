@@ -1,2 +1,2 @@
-# TASK--5
-using HTML, CSS and JavaScript
+# TASK-5
+Using HTML, CSS and JavaScript
